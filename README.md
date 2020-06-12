@@ -43,6 +43,22 @@ There are constantly new features being developed in Y#(Y-sharp).
 
 # Examples can be found in '/examples' directory
 
+# Basic Usage
+To use, run the filename as the first argument. It is recommended to use the python interpreter to run the code (just run the `ysharp` folder), like so:
+
+```
+python3 ysharp path/to/yharp/file.yshp
+
+or
+
+python ysharp path/to/yharp/file.yshp 
+```
+
+The filename for yharp files is `.yshp`. For example, `important_file.yshp`. If you want to use the compiled binaries, on Unix-like systems, you could do:
+
+```
+./ysharp.bin path/to/ysharp/file.yshp
+```
 
 
 ```	
