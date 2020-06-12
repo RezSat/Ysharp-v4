@@ -1,0 +1,9 @@
+symport "syntax_test";
+import "io::print";
+
+dab i in [1, 2, 3] {
+  print(i);
+}
+
+//syndel syntax_test::for;
+//syndel syntax_test;

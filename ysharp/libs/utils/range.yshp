@@ -1,0 +1,3 @@
+func range(start, end) {
+  return `list(range(var.start.value, var.end.value))`;
+}

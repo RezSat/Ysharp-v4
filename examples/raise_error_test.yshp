@@ -1,0 +1,1 @@
+error("bad_error")::raise("Something Went Wrong", ln=23909, file="this_is_a_file"); // doesn't run

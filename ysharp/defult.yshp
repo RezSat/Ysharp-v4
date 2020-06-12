@@ -1,0 +1,17 @@
+func get!(path_of_file) {
+  `print("The get! function is deprecated. Use the import statement instead. No modules/files were imported.")`;
+}
+
+func quit() {
+  `quit()`;
+}
+
+class error {
+  func --init--(this, type) {
+    this::type = type;
+  }
+
+  func raise(this, msg, ln="?", file="?") {
+    `errors.ErrorClass(var.this.objects["type"]).raise_error(var.msg.value, file=var.file.value, ln=var.ln.value)`;
+  }
+}

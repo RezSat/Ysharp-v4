@@ -1,0 +1,3 @@
+func stdin(prompt="") {
+  return `input(var.prompt.value)`;
+}

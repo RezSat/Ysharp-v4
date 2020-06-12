@@ -1,0 +1,3 @@
+func len(obj) {
+  return `len(var.obj)`;
+}

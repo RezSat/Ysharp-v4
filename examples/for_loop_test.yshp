@@ -1,0 +1,7 @@
+import "io";
+import "utils::range";
+
+list = range(0, 10);
+for i in list {
+  io::print(i);
+}

@@ -1,0 +1,7 @@
+x = 10;  // get factorial of 10
+answer = 1;
+
+while (x > 1) {
+  answer = answer * x;
+  x = x - 1;
+}

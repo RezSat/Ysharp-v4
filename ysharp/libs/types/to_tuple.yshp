@@ -1,0 +1,3 @@
+func to_tuple(value) {
+  return `tuple(var.value.value)`;
+}

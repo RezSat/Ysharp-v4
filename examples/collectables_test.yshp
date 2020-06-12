@@ -1,0 +1,7 @@
+import "types";
+import "io";
+
+x = [1, 2, 3, 4, 5];
+io::print(types::to_numpy(x));
+io::print(types::to_list(x));
+io::print(types::to_tuple(x));

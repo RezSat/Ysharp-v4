@@ -1,0 +1,10 @@
+func speakm(text){
+  `text = var.text
+import pyttsx3
+e = pyttsx3.init()
+voices = e.getProperty('voices')
+e.setProperty('voice', voices[0].id)
+e.say(text)
+e.runAndWait()
+speakm(str(text))`;
+}

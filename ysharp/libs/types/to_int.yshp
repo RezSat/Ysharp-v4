@@ -1,0 +1,3 @@
+func to_int(value) {
+  return `int(var.value.value)`;
+}

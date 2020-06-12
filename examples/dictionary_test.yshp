@@ -1,0 +1,5 @@
+import "io";
+
+x = \"hi": "hellow!", "sda": "sih"\;
+y = x["hi"];
+io::print(y);

@@ -1,0 +1,3 @@
+func to_float(value) {
+  return `float(var.value.value)`;
+}
