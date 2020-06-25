@@ -15,7 +15,7 @@ Used sly for Lexer & Parser
 - It's actively maintained
 - It's a versatile programming language suited for many things
 - New features are constantly being added
-- Specially developing for Robotic Engineering & Computer Automation
+- Built-in libraries & functions for Robotic Engineering & Computer Automation
 
 # All Features
 
