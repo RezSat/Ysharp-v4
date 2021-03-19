@@ -12,7 +12,6 @@ Used sly for Lexer & Parser
 ```
 
 # Why Y#(Y-sharp)?
-- It's actively maintained
 - It's a versatile programming language suited for many things
 - New features are constantly being added
 - Built-in libraries & functions for Robotic Engineering & Computer Automation
