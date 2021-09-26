@@ -13,8 +13,8 @@ Used sly for Lexer & Parser
 
 # Why Y#(Y-sharp)?
 - It's a versatile programming language suited for many things
-- New features are constantly being added
 - Built-in libraries & functions for Robotic Engineering & Computer Automation
+- Really, no one need to use it, it's just a pet project
 
 # All Features
 
@@ -62,10 +62,7 @@ The filename for yharp files is `.yshp`. For example, `important_file.yshp`. If 
 
 ```	
   try to contribute and my contacts are :
-       Email : yehantest@gmail.com
        Instagram : @official.yehanwasura.lk
-       Whatsapp : +94 0762679048
-       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
        
        Support Me Via Paypal : https://paypal.me/cyberrex599
        Support Me Via Patreon : https://patreon.com/yehanwasura
