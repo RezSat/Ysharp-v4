@@ -58,14 +58,3 @@ The filename for yharp files is `.yshp`. For example, `important_file.yshp`. If 
 ```
 ./ysharp.bin path/to/ysharp/file.yshp
 ```
-
-
-```	
-  try to contribute and my contacts are :
-       Instagram : @official.yehanwasura.lk
-       
-       Support Me Via Paypal : https://paypal.me/cyberrex599
-       Support Me Via Patreon : https://patreon.com/yehanwasura
- ```      
-
-ThankYou
